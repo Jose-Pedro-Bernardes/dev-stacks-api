@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStacks.API", "DevStacks.API\DevStacks.API.csproj", "{94F394E6-7BDA-4977-BC07-F3DD8CA11DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F394E6-7BDA-4977-BC07-F3DD8CA11DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F394E6-7BDA-4977-BC07-F3DD8CA11DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F394E6-7BDA-4977-BC07-F3DD8CA11DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F394E6-7BDA-4977-BC07-F3DD8CA11DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0573C8-DF31-4435-B7BF-AF1CCAA4C82A}
+	EndGlobalSection
+EndGlobal
